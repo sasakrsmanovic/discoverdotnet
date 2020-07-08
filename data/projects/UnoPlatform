@@ -1,0 +1,20 @@
+SourceCode: https://github.com/unoplatform/uno
+NuGet:
+  - https://www.nuget.org/packages/Uno.UI
+Language: C#
+Image: https://s3.amazonaws.com/uno-website-assets/wp-content/uploads/2018/08/22113759/UnoLogoSmall.png
+Title: The only platform for building native mobile, desktop and WebAssembly apps with C#, XAML from a single codebase. Open source and professionally supported.
+Description: The only platform for building native mobile, desktop and WebAssembly apps with C#, XAML from a single codebase. Open source and professionally supported.
+Website: https://platform.uno
+Docs: https://platform.uno/docs/articles/intro.html
+Chat: https://discord.gg/eBHZSKG
+Twitter: https://twitter.com/unoplatform
+Tags:
+  - WebAssembly
+  - WASM
+  - iOS
+  - macOS
+  - Android
+  - Linux
+  - WinUI
+  - UWP
